@@ -281,7 +281,7 @@ body {
 .trusted-badge {
     position: absolute;
     top: -38px;
-    left: -38px;
+    right: -38px;
     width: 120px;
     z-index: 2;
 }
@@ -326,7 +326,7 @@ body {
     }
     .trusted-badge {
         position: absolute;
-        left: 50%;
+        right: 50%;
         transform: translateX(-50%) scale(0.8);
         top: -30px;
         width: 90px;
